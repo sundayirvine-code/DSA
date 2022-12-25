@@ -1,5 +1,7 @@
 from stack import *
 
+""" Testing the stack functionalities"""
+
 def main_func():
     stack = Stack()
     while True:
