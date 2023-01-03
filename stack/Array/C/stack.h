@@ -9,7 +9,7 @@
 extern int top;
 int stack_arr[MAX];
 
-/*primari stack operations*/
+/*primarY stack operations*/
 void push(int data);
 int pop();
 
