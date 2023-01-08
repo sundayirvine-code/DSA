@@ -7,7 +7,7 @@ using a stack"""
 def prime_fact(number):
     stack = Stack()
 
-    # start with lowers prime factor
+    # start with lowest prime factor
     i = 2
     while number != 1:
         #Push all prime factors onto stack
